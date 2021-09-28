@@ -1,4 +1,6 @@
 
+<img src="ghosters.png" hieght="300" width="300">
+
 If you'd like to buy me a coffee or otherwise tip me, and thanks in advance! :
 
 
