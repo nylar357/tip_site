@@ -1,12 +1,12 @@
 
-<img src="ghosters.png" hieght="300" width="300">
+<img src="ghosters.png" hieght="50" width="50">
 
 If you'd like to buy me a coffee or otherwise tip me, and thanks in advance! :
 
 
 Cash App (Preferred)
 
-<img src="Screenshot_20210928-140835.jpg" hieght="50" width="50">
+<img src="Screenshot_20210928-140835.jpg" hieght="300" width="300">
 
 
 PayPal 
