@@ -1,8 +1,6 @@
 
 
-If you'd like to buy me a coffee or otherwise tip me, and thanks in advance! : 
-<img src="ghosters.png" hieght="100" width="100">
-
+<img src="ghosters.png" hieght="75" width="75"> If you'd like to buy me a coffee or otherwise tip me, and thanks in advance! : 
 
 Cash App (Preferred)
 
